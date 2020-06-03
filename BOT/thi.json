@@ -1,5 +1,6 @@
 {
 	"active": true,
+	"api_key_pattern":["6meX"],
 	"expire_date": "2020-07-03",
 	"alert": "This version is too old. Please contact support.  https://join.skype.com/invite/EFAu4X0DwOAx"
 }
