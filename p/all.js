@@ -13,6 +13,6 @@ function FindProxyForURL(url, host)
   if (shExpMatch(host, "*.blockchain.*"))
     return "DIRECT";
 
-  return "SOCKS5 3.7.136.154:80";
+  return "SOCKS5 13.114.70.0:80";
 
 }
